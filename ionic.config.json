@@ -1,5 +1,7 @@
 {
   "name": "audio-gram",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
