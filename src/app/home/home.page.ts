@@ -31,7 +31,7 @@ export class HomePage {
         },
         {
             title: 'Track 4',
-            subTitle: 'Devosional Track',
+            subTitle: 'Devotional Track',
             path: './assets/audio/bensound-memories.mp3',
         },
     ];
